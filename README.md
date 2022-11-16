@@ -1,6 +1,6 @@
                                               ************ASPIRING SOFTWARE ENGINEER************
 - 👋 Hi, I’m @BHANUPRASAD2529
-- 👀 I wanted to be a SDE 
+-  💻CSE Student awaiting for an opurtunity to be a part of organisation where i can use my skills.
 - 🌱 Eager to learn the new technologies
 - 📫 Reach me at ~ [bhanuprasadkummari@gmail.com](url)
 - Linkedin ~ [https://www.linkedin.com/in/bhanu-prasad-kummari-1141a721a/](url)
