@@ -1,8 +1,7 @@
                                               ************ASPIRING SOFTWARE ENGINEER************
-- 👋 Hi, I’m @BHANUPRASAD2529
--  💻CSE Student awaiting for an opurtunity to be a part of organisation where i can use my skills.
-- 🌱 Eager to learn the new technologies
-- 📫 Reach me at ~ [bhanuprasadkummari@gmail.com](url)
+- 👋 Hi, I’m Kummari Bhanu Prasad
+- Eager to learn the new technologies
+- Reach me at ~ https://bhanuprasadkummari.netlify.app/ (url)
 - Linkedin ~ [https://www.linkedin.com/in/bhanu-prasad-kummari-1141a721a/](url)
 
 <!---
